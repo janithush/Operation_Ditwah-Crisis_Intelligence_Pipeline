@@ -13,9 +13,9 @@ openai:
 
 google:
   general: gemini-2.5-flash
-  strong: gemini-2.5-pro
-  reason: gemini-2.5-pro
-
+  strong: gemini-2.5-flash
+  reason: gemini-2.5-flash
+#gemini-2.5-pro
 groq:
   general: llama-3.1-8b-instant
   strong: llama-3.1-70b-versatile
