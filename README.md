@@ -1,4 +1,5 @@
 # 🚨 Operation Ditwah: Crisis Intelligence Pipeline
+![Tests](https://github.com/janithush/Operation_Ditwah-Crisis_Intelligence_Pipeline/actions/workflows/tests.yml/badge.svg)
 
 An LLM-powered crisis intelligence pipeline that turns unstructured disaster reports and citizen messages into structured, actionable data — built for a flood/disaster relief scenario across Sri Lankan districts (Colombo, Gampaha, Kandy, Kalutara, Galle, Matara, Ratnapura, Kegalle, Anuradhapura).
 
